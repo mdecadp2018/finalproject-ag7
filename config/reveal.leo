@@ -381,8 +381,7 @@ make.start()
 </t>
 <t tx="leo.20190110232601.5">## 鋼球運動系統影片
 
-&lt;iframe src="https://www.youtube.com/watch?v=lQvcoOzmLqs" width="640" height="492" frameborder="0" &gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="640" height="492" src="https://www.youtube.com/embed/lQvcoOzmLqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20190110232610.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -397,7 +396,7 @@ make.start()
 </t>
 <t tx="leo.20190110232610.3">## Week 12
 
-*組員工作分配：
+* 組員工作分配：
 
 40623119 歐宗韋 Onshape繪製
 
@@ -484,7 +483,7 @@ make.start()
 </t>
 <t tx="leo.20190111002305.2">## 問題討論：
 
-*1/3 40623144 發現的問題：連桿機構的尺寸瑕疵，間隙大於鋼球
+* 1/3 40623144 發現的問題：連桿機構的尺寸瑕疵，間隙大於鋼球
 
 解決辦法：與設計人員重新設計尺寸
 </t>
@@ -497,12 +496,12 @@ make.start()
 </t>
 <t tx="leo.20190111002815.2">## 問題討論：
 
-*12/21 40623137 發現的問題：運動部分與各軌道間無法相互配合組立
+* 12/21 40623137 發現的問題：運動部分與各軌道間無法相互配合組立
 
 解決辦法：
 Onshapeu有設立共享，組立人員及設計人員同時上線討論並且做設計變更
 </t>
-<t tx="leo.20190111003954.1">###組員期中倉儲
+<t tx="leo.20190111003954.1">### 組員期中倉儲
 
 [40623119](https://github.com/mdecadp2018/site-40623119)
 
