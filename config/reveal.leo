@@ -41,8 +41,29 @@
 </v>
 </v>
 <v t="leo.20190110232634.1" a="E"><vh>Week13-15</vh>
-<v t="leo.20190110232634.2" a="E"><vh>-</vh>
+<v t="leo.20190110232634.2"><vh>-</vh>
 <v t="leo.20190110232634.3"><vh>繪製零件</vh></v>
+</v>
+<v t="leo.20190111052411.1" a="E"><vh>---</vh>
+<v t="leo.20190111052411.2"><vh>零件1</vh></v>
+</v>
+<v t="leo.20190111052608.1" a="E"><vh>軌道</vh>
+<v t="leo.20190111052608.2"><vh>零件2</vh></v>
+</v>
+<v t="leo.20190111052610.1" a="E"><vh>軌道2</vh>
+<v t="leo.20190111052610.2"><vh>零件3</vh></v>
+</v>
+<v t="leo.20190111052612.1" a="E"><vh>支撐架</vh>
+<v t="leo.20190111052612.2"><vh>零件4</vh></v>
+</v>
+<v t="leo.20190111052614.1" a="E"><vh>旋轉漏斗</vh>
+<v t="leo.20190111052614.2"><vh>零件5</vh></v>
+</v>
+<v t="leo.20190111052629.1" a="E"><vh>連桿機構</vh>
+<v t="leo.20190111052629.2"><vh>零件6</vh></v>
+</v>
+<v t="leo.20190111052632.1" a="E"><vh>旋轉機構</vh>
+<v t="leo.20190111052632.2"><vh>零件7</vh></v>
 </v>
 <v t="leo.20190111002815.1" a="E"><vh>--</vh>
 <v t="leo.20190111002815.2"><vh>問題討論</vh></v>
@@ -57,8 +78,11 @@
 </v>
 </v>
 <v t="leo.20190110232650.1" a="E"><vh>Week17</vh>
-<v t="leo.20190111001425.1" a="E"><vh>-</vh>
+<v t="leo.20190111001425.1"><vh>-</vh>
 <v t="leo.20190111001425.2"><vh>進度</vh></v>
+</v>
+<v t="leo.20190111054002.1" a="E"><vh>-</vh>
+<v t="leo.20190111054002.2"><vh>進度</vh></v>
 </v>
 <v t="leo.20190111002305.1" a="E"><vh>--</vh>
 <v t="leo.20190111002305.2"><vh>問題討論</vh></v>
@@ -67,7 +91,7 @@
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -381,7 +405,9 @@ make.start()
 </t>
 <t tx="leo.20190110232601.5">## 鋼球運動系統影片
 
-&lt;iframe width="640" height="492" src="https://www.youtube.com/embed/lQvcoOzmLqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="640" height="492" src="https://www.youtube.com/embed/lQvcoOzmLqs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 <t tx="leo.20190110232610.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -470,7 +496,8 @@ make.start()
 </t>
 <t tx="leo.20190111001425.2">## Week 17：
 
-* 開始使用V-rep模擬鋼球運動系統
+* [開始使用V-rep模擬鋼球運動系統](https://www.youtube.com/watch?v=F0SH_lyNxew)
+
 
 
 </t>
@@ -513,7 +540,9 @@ Onshapeu有設立共享，組立人員及設計人員同時上線討論並且做
 
 [40623137](https://github.com/mdecadp2018/site-40623137)
 
-[40623144](https://github.com/mdecadp2018/site-40623144)</t>
+[40623144](https://github.com/mdecadp2018/site-40623144)
+
+</t>
 <t tx="leo.20190111004103.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -538,6 +567,98 @@ Created by [AG7](https://github.com/mdecadp2018/finalproject-ag7)
 [AG7分組倉儲](https://github.com/mdecadp2018/finalproject-ag7)
 
 [Onshape-AG7](https://cad.onshape.com/documents/58a6ae80f4879f743108e33d/w/c58f82eeb6d2b9eb24b175a5/e/e5c1770831700108b41744ae)
+</t>
+<t tx="leo.20190111052411.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190111052411.2">組合圖
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag7/images/%E7%B5%84%E5%90%88%E5%9C%96.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag7/images/%E7%B5%84%E5%90%88%E5%9C%96.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20190111052608.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190111052608.2">軌道
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag7/images/%E8%BB%8C%E9%81%93.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag7/images/%E8%BB%8C%E9%81%93.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20190111052610.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190111052610.2">軌道2
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag7/images/%E8%BB%8C%E9%81%932.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag7/images/%E8%BB%8C%E9%81%932.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20190111052612.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190111052612.2">支撐架
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag7/images/%E6%94%AF%E6%92%90%E6%9E%B6.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag7/images/%E6%94%AF%E6%92%90%E6%9E%B6.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20190111052614.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190111052614.2">旋轉漏斗
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag7/images/%E6%97%8B%E8%BD%89%E6%BC%8F%E6%96%97.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag7/images/%E6%97%8B%E8%BD%89%E6%BC%8F%E6%96%97.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20190111052629.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190111052629.2">連桿機構
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag7/images/%E9%80%A3%E6%A1%BF%E6%A9%9F%E6%A7%8B.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag7/images/%E9%80%A3%E6%A1%BF%E6%A9%9F%E6%A7%8B.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20190111052632.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190111052632.2">旋轉機構
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag7/images/%E6%97%8B%E8%BD%89%E6%A9%9F%E6%A7%8B.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag7/images/%E6%97%8B%E8%BD%89%E6%A9%9F%E6%A7%8B.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20190111054002.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111054002.2">## 遇到的問題
+
+* 40623119：我們模擬過程中遇到了尺寸不合的問題，所以必須重新匯入調整過後的機構重新模擬一次
+* 40623119：模擬的時候，鋼球到某一個定點會快速跳動，導致無法傳遞鋼球，要調整好轉速並加重球的重量，使它不會隨意跳動
+
+
+
 </t>
 </tnodes>
 </leo_file>
