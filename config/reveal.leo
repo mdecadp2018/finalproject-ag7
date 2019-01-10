@@ -21,10 +21,50 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
-<v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20190111004103.1" a="E"><vh>封面投影片</vh>
+<v t="leo.20190111004103.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.9" a="E"><vh>組員倉儲</vh>
+<v t="leo.20190111003954.1"><vh>組員GITHUB</vh></v>
+</v>
+<v t="leo.20190110232601.1" a="E"><vh>Week11</vh>
+<v t="leo.20190110232601.2" a="E"><vh>-</vh>
+<v t="leo.20190110232601.3"><vh>進度</vh></v>
+</v>
+<v t="leo.20190110232601.4" a="E"><vh>--</vh>
+<v t="leo.20190110232601.5"><vh>鋼球運動系統</vh></v>
+</v>
+</v>
+<v t="leo.20190110232610.1" a="E"><vh>Week12</vh>
+<v t="leo.20190110232610.2" a="E"><vh>-</vh>
+<v t="leo.20190110232610.3"><vh>工作分配</vh></v>
+</v>
+</v>
+<v t="leo.20190110232634.1" a="E"><vh>Week13-15</vh>
+<v t="leo.20190110232634.2" a="E"><vh>-</vh>
+<v t="leo.20190110232634.3"><vh>繪製零件</vh></v>
+</v>
+<v t="leo.20190111002815.1" a="E"><vh>--</vh>
+<v t="leo.20190111002815.2"><vh>問題討論</vh></v>
+</v>
+</v>
+<v t="leo.20190110232643.1" a="E"><vh>Week16</vh>
+<v t="leo.20190110232643.2" a="E"><vh>-</vh>
+<v t="leo.20190110232643.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20190110232643.4" a="E"><vh>--</vh>
+<v t="leo.20190110232643.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190110232650.1" a="E"><vh>Week17</vh>
+<v t="leo.20190111001425.1" a="E"><vh>-</vh>
+<v t="leo.20190111001425.2"><vh>進度</vh></v>
+</v>
+<v t="leo.20190111002305.1" a="E"><vh>--</vh>
+<v t="leo.20190111002305.2"><vh>問題討論</vh></v>
+</v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
@@ -124,18 +164,6 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
-
-### 虎科大機械設計工程系
-
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
-
-[2018 Fall 分組網誌](./../blog/index.html)
-
-
-</t>
 <t tx="leo.20180827201621.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -325,6 +353,192 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20190110232601.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20190110232601.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190110232601.3">## Week 11
+
+* 組長使用github邀請組員進入協同。
+
+* 與組員討論製作主題。
+
+* 工作基礎分配
+</t>
+<t tx="leo.20190110232601.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190110232601.5">## 鋼球運動系統影片
+
+&lt;iframe src="https://www.youtube.com/watch?v=lQvcoOzmLqs" width="640" height="492" frameborder="0" &gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190110232610.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190110232610.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190110232610.3">## Week 12
+
+*組員工作分配：
+
+40623119 歐宗韋 Onshape繪製
+
+40623125 鍾旻諺 Onshape繪製、報告
+
+40623131 周紹叡 繪製、投影片、簡報
+
+40623135 洪明棋 繪製、V-Rep模擬
+
+40623137 黃盟泰 Onshape繪製
+
+40623144 林昭權 Onshape繪製
+</t>
+<t tx="leo.20190110232634.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190110232634.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190110232634.3">### Week 13-15：
+
+* 使用Onshape設計繪製各種零件
+
+----
+</t>
+<t tx="leo.20190110232643.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190110232643.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190110232643.3">## Week 16：
+
+* 開始使用Onshape組合零件圖
+
+
+</t>
+<t tx="leo.20190110232643.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20190110232643.5">## Onshape模擬
+
+
+
+</t>
+<t tx="leo.20190110232650.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111001425.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111001425.2">## Week 17：
+
+* 開始使用V-rep模擬鋼球運動系統
+
+
+</t>
+<t tx="leo.20190111002305.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111002305.2">## 問題討論：
+
+*1/3 40623144 發現的問題：連桿機構的尺寸瑕疵，間隙大於鋼球
+
+解決辦法：與設計人員重新設計尺寸
+</t>
+<t tx="leo.20190111002815.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111002815.2">## 問題討論：
+
+*12/21 40623137 發現的問題：運動部分與各軌道間無法相互配合組立
+
+解決辦法：
+Onshapeu有設立共享，組立人員及設計人員同時上線討論並且做設計變更
+</t>
+<t tx="leo.20190111003954.1">###組員期中倉儲
+
+[40623119](https://github.com/mdecadp2018/site-40623119)
+
+[40623125](https://github.com/mdecadp2018/site-40623125)
+
+[40623131](https://github.com/mdecadp2018/site-40623131)
+
+[40623135](https://github.com/mdecadp2018/site-40623135)
+
+[40623137](https://github.com/mdecadp2018/site-40623137)
+
+[40623144](https://github.com/mdecadp2018/site-40623144)</t>
+<t tx="leo.20190111004103.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111004103.2">## 2018Fall AG7工作簡報
+
+### 虎科大機械設計工程系
+
+### 鋼球運動機構
+
+&lt;small&gt;
+Created by [AG7](https://github.com/mdecadp2018/finalproject-ag7)
+&lt;/small&gt;
+
+[AG7分組網站](https://mdecadp2018.github.io/finalproject-ag7/content/index.html)
+
+[AG7分組倉儲](https://github.com/mdecadp2018/finalproject-ag7)
+
+[Onshape-AG7](https://cad.onshape.com/documents/58a6ae80f4879f743108e33d/w/c58f82eeb6d2b9eb24b175a5/e/e5c1770831700108b41744ae)
 </t>
 </tnodes>
 </leo_file>
